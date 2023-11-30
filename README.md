@@ -1,4 +1,8 @@
-# Running the Django Application Locally:
+**Task1 and Task2 files aur bash files submission and TeckKaro folder is created while automating**
+
+**Django folder are manual creation af bash cript**
+
+# Task3 Running the Django Application Locally:
 **Install Dependencies:**
 sudo apt install python3-pip
 pip3 install django
